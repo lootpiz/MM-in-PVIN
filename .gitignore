@@ -1,0 +1,9 @@
+**/.DS_Store
+.DS_Store
+
+.ipynb_checkpoints
+*.code-workspace
+.vscode
+
+R/00_directorySettings.R
+
